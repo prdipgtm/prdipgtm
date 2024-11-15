@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prdipgtm
+- 👋 Hi, I’m Pradip Gautam
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning c programming 
 - 💞️ I’m looking to collaborate on ...
